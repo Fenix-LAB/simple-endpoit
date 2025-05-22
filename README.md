@@ -26,3 +26,6 @@ To run the FastAPI application, use the following command:
 ```bash
 python main.py
 ```
+
+## The application will start running on `http://localhost:8000`
+Show the API documentation by navigating to `http://localhost:8000/docs` in your web browser. You can test the `/hello` endpoint directly from the documentation interface.
